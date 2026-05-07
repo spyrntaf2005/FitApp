@@ -26,6 +26,6 @@
    GEMINI_API_KEY=AIzaSyCxvCVgJI9uKjD3zvQRq1LbTp6q579IvQg
    ```
 5. Πραγματοποιήστε συγχρονισμό του έργου με τα αρχεία Gradle.
-6. Κάντε μεταγλώττιση και εκτελέστε την εφαρμογή σε Android Emulator ή σε φυσική συσκευή.
+6. Πατήστε Build / Run μέσω του Android Studio για να τρέξει η εφαρμογή στον Emulator ή στο κινητό σας.
 
 
