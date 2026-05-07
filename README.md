@@ -23,7 +23,7 @@
 3. Αποκτήστε ένα κλειδί Gemini API από το Google AI Studio.
 4. Δημιουργήστε ή επεξεργαστείτε το αρχείο `local.properties` στον κεντρικό φάκελο του έργου και προσθέστε την ακόλουθη γραμμή:
    ```properties
-   GEMINI_API_KEY=το_δικό_σας_api_key_εδώ
+   GEMINI_API_KEY=AIzaSyCxvCVgJI9uKjD3zvQRq1LbTp6q579IvQg
    ```
 5. Πραγματοποιήστε συγχρονισμό του έργου με τα αρχεία Gradle.
 6. Κάντε μεταγλώττιση και εκτελέστε την εφαρμογή σε Android Emulator ή σε φυσική συσκευή.
