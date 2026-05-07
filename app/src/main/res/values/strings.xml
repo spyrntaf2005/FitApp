@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FitAI Coach</string>
+    <string name="tagline">Ο Έξυπνος Προπονητής σου</string>
+    <string name="hint_name">Το όνομά σου…</string>
+    <string name="hint_message">Γράψε κάτι…</string>
+    <string name="btn_start">Ξεκινά η Προπόνηση</string>
+    <string name="btn_send">↑</string>
+    <string name="label_name">Πώς σε λένε;</string>
+    <string name="label_level">Επίπεδο Φυσικής Κατάστασης</string>
+    <string name="label_goal">Κύριος Στόχος</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App palette -->
+    <color name="bg_deep">#080B14</color>
+    <color name="bg_surface">#0F1422</color>
+    <color name="bg_card">#161D30</color>
+    <color name="bg_card_alt">#1C2540</color>
+
+    <color name="primary">#4F8EF7</color>
+    <color name="primary_dark">#2D6FD6</color>
+    <color name="accent">#A78BFA</color>
+    <color name="accent_teal">#06D6A0</color>
+
+    <color name="text_primary">#EFF6FF</color>
+    <color name="text_secondary">#8B9DC3</color>
+    <color name="text_hint">#4A5568</color>
+
+    <color name="chip_bg">#1C2540</color>
+    <color name="chip_selected_bg">#4F8EF7</color>
+    <color name="chip_border">#2D3A5C</color>
+
+    <color name="divider">#1E2A45</color>
+    <color name="bubble_user_start">#4F8EF7</color>
+    <color name="bubble_user_end">#A78BFA</color>
+    <color name="bubble_ai">#1C2540</color>
+    <color name="bubble_ai_border">#2D3A5C</color>
+</resources>
